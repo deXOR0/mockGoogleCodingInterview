@@ -1,6 +1,6 @@
 # mockGoogleCodingInterview
 
-So this is my take to Clément Mihailescu's Mock Googling Coding Interview that he did with Tim,you can see the video [here](https://www.youtube.com/watch?v=3Q_oYDQ2whs)
+So this is my take on Clément Mihailescu's Mock Googling Coding Interview that he did with Tech With Tim,you can see the video [here](https://www.youtube.com/watch?v=3Q_oYDQ2whs)
 
 So the idea is you have two people who are trying to set up a meeting, and they have to figure out which time they can set the meeting in by factoring their other plans, office hours, and meeting duration.
 
